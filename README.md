@@ -18,8 +18,8 @@ SQL Server Exporter for Prometheus
 ```
 use master;
 create login monitor with password=[replace with a complex password];
-grant VIEW ANY DEFINITION to lazybug;
-grant VIEW SERVER STATE to lazybug;
+grant VIEW ANY DEFINITION to monitor;
+grant VIEW SERVER STATE to monitor;
 ```
 
 # 常见问题
