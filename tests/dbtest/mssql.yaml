@@ -1,0 +1,7 @@
+#sqlserver://prom_user:prom_password@dbserver1.example.com:1433
+# dsn: 172.16.121.164:1521/orcl21c
+host: 172.16.121.235
+port: 2433
+username: lazybug
+password: lazybug123
+instance: sqlserver2
